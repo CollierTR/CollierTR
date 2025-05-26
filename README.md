@@ -1,10 +1,10 @@
-<h1> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h1>
+<h1>&nbsp;A Little Bit About Me and My Interests</h1>
 
 ```json
 {
 	"name": "Tristan Collier",
 	"located_in": "Missouri, USA",
-    "fun fact": "I use Vim",
+	"fun fact": "I use Vim",
 	"current_job_title": "Business Intelligence Developer",
 	"education": "Self-Taught Developer and Designer",
 	"company": "Bonnie Plants, LLC",
