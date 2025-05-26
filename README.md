@@ -4,7 +4,7 @@
 {
 	"name": "Tristan Collier",
 	"located_in": "Missouri, USA",
-    "fun fact": "I use Vim btw...",
+    "fun fact": "I use Vim",
 	"current_job_title": "Business Intelligence Developer",
 	"education": "Self-Taught Developer and Designer",
 	"company": "Bonnie Plants, LLC",
@@ -81,4 +81,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=colliertr&show_icons=true&theme=shadow_green&locale=en&hide=prs&rank_icon=github" alt="colliertr" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colliertr&show_icons=true&theme=shadow_green&locale=en&layout=donut" alt="colliertr" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=colliertr&label=Profile%20views&color=27981f&style=flat" alt="colliertr" /> </p>
+<p align="left" display='hidden'> <img src="https://komarev.com/ghpvc/?username=colliertr&label=Profile%20views&color=27981f&style=flat" alt="colliertr" /> </p>
