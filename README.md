@@ -21,7 +21,12 @@
 		"Next js",
 		"Intro to Game Dev"
 	],
-	"hobbies": ["Chess", "Martial Arts", "Hiking"]
+	"hobbies": [
+		"Mastering New Technology",
+		"Chess",
+		"Martial Arts",
+		"Hiking",
+	]
 }
 ```
 
