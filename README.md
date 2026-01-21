@@ -4,22 +4,21 @@
 {
 	"name": "Tristan Collier",
 	"located_in": "Missouri, USA",
-	"fun fact": "I use Vim",
+	"fun fact": "I'm an Arch Linux user!",
 	"current_job_title": "Business Intelligence Developer",
-	"education": "Self-Taught Developer and Designer",
+	"education": "Self-Taught Developer",
 	"company": "Bonnie Plants, LLC",
 	"fields_of_interests": [
 		"Full-stack Application Development",
 		"Web Development",
 		"UI/UX",
-		"Game Development"
 	],
 	"currently_learning": [
-		"Framer Motion",
-		"MSAL",
+		"Astro",
 		"Azure",
-		"Next js",
-		"Intro to Game Dev"
+		"MSAL",
+		"AI Agent Development",
+		"Data Structures and Algorithms"
 	],
 	"hobbies": [
 		"Mastering New Technology",
