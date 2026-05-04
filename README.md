@@ -1,5 +1,10 @@
 <h1>&nbsp;A Little Bit About Me and My Interests</h1>
 
+![GitHub User's stars](https://img.shields.io/github/stars/colliertr)  
+![GitHub followers](https://img.shields.io/github/followers/colliertr)
+
+
+
 ```json
 {
 	"name": "Tristan Collier",
