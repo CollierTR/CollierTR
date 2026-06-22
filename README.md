@@ -19,10 +19,8 @@
 		"UI/UX",
 	],
 	"currently_learning": [
-		"Astro",
-		"Azure",
-		"MSAL",
-		"AI Agent Development",
+		"C#",
+		"K8s",
 		"Data Structures and Algorithms"
 	],
 	"hobbies": [
