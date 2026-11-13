@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2&pause=3000&color=8EC07C&center=true&vCenter=true&repeat=true&width=420&height=28&lines=Software+Developer;Terminal+Junky" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2&pause=3000&color=8EC07C&center=true&vCenter=true&repeat=true&width=420&height=28&lines=Software+Developer;Terminal+Junky;Git+Ninja" alt="typing" />
 </p>
+
+![GitHub followers](https://img.shields.io/github/followers/CollierTR?style=for-the-badge&logo=github&logoColor=8ec07c&color=282828&labelColor=1d2021)  
+![GitHub stars](https://img.shields.io/github/stars/CollierTR?style=for-the-badge&logo=github&logoColor=8ec07c&color=282828&labelColor=1d2021)  
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCollierTR&query=%24.public_repos&style=for-the-badge&label=public%20repos&labelColor=1d2021&color=282828&logo=github&logoColor=8ec07c)
 
 
 ```json
@@ -37,10 +41,6 @@
 }
 ```
 
-![GitHub followers](https://img.shields.io/github/followers/CollierTR?style=for-the-badge&logo=github&logoColor=8ec07c&color=282828&labelColor=1d2021)  
-![GitHub stars](https://img.shields.io/github/stars/CollierTR?style=for-the-badge&logo=github&logoColor=8ec07c&color=282828&labelColor=1d2021)  
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCollierTR&query=%24.public_repos&style=for-the-badge&label=public%20repos&labelColor=1d2021&color=282828&logo=github&logoColor=8ec07c)
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2&pause=3000&color=8EC07C&vCenter=true&repeat=true&width=220&height=28&lines=%3E%3E_LANGS" alt="langs" />
 </p>
@@ -65,7 +65,3 @@
 
 [![chess](https://img.shields.io/badge/chess-tristancollier-8ec07c?style=for-the-badge&labelColor=1d2021)](https://www.chess.com/member/tristancollier)
 
-```bash
-colliertr@arcade:~$ # pins above are the pellet trail — chomp around
-colliertr@arcade:~$
-```
