@@ -1,25 +1,17 @@
-```text
-█▓▒░█████████████████████████████████████████████████████████████████████████░▒▓█
-█▓▒░                                                                         ░▒▓█
-█▓▒░   ████████╗██████╗ ██╗███████╗████████╗ █████╗ ███╗   ██╗               ░▒▓█
-█▓▒░   ╚══██╔══╝██╔══██╗██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║               ░▒▓█
-█▓▒░      ██║   ██████╔╝██║███████╗   ██║   ███████║██╔██╗ ██║               ░▒▓█
-█▓▒░      ██║   ██╔══██╗██║╚════██║   ██║   ██╔══██║██║╚██╗██║               ░▒▓█
-█▓▒░      ██║   ██║  ██║██║███████║   ██║   ██║  ██║██║ ╚████║               ░▒▓█
-█▓▒░      ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝               ░▒▓█
-█▓▒░                                                                         ░▒▓█
-█▓▒░        ▓▒░ C 0 L L I E R ░▒▓   // Software Developer                     ░▒▓█
-█▓▒░        ▓▒░ N0RTHERN M1SS0UR1 ░▒▓   glitch://profile.boot                 ░▒▓█
-█▓▒░                                                                         ░▒▓█
-█▓▒░█████████████████████████████████████████████████████████████████████████░▒▓█
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d2021,50:282828,100:1d2021&height=140&section=header&text=COLLIERTR&fontSize=64&fontColor=fabd2f&fontAlignY=42&desc=HIGH%20SCORE%20%2F%2F%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=70&descColor=fe8019&fontAlign=50" alt="COLLIERTR" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&pause=1400&color=FABD2F&center=true&vCenter=true&repeat=true&width=520&height=40&lines=Arch+%2B+neovim+%2B+dotfiles;building+tools+that+stay+out+of+the+way;1+UP+%2F%2F+ready+player+one" alt="typing" />
+</p>
 
 ```bash
-colliertr@github:~$ whoami
+colliertr@arcade:~$ whoami
 Tristan Collier — Software Developer
 building tools, interfaces, and systems that stay out of the way
 
-colliertr@github:~$ cat ~/about.json
+colliertr@arcade:~$ cat ~/about.json
 ```
 
 ```json
@@ -51,37 +43,41 @@ colliertr@github:~$ cat ~/about.json
 ```
 
 ```bash
-colliertr@github:~$ cat ~/rig
+colliertr@arcade:~$ cat ~/rig
 Arch · neovim · specter.nvim · dotfiles
 
-colliertr@github:~$ ./stats.sh
+colliertr@arcade:~$ ./stats.sh
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollierTR&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&rank_icon=github" alt="CollierTR GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CollierTR&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117" alt="CollierTR top languages" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/CollierTR?style=for-the-badge&logo=github&logoColor=fabd2f&color=282828&labelColor=1d2021)  
+![GitHub stars](https://img.shields.io/github/stars/CollierTR?style=for-the-badge&logo=github&logoColor=fe8019&color=282828&labelColor=1d2021)  
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FCollierTR&query=%24.public_repos&style=for-the-badge&label=public%20repos&labelColor=1d2021&color=282828&logo=github&logoColor=8ec07c)
 
-```bash
-colliertr@github:~$ ./connect.sh
+```text
+langs →
 ```
 
-<p align="left">
-  <a href="https://tristancollier.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/web-tristancollier.com-a89984?style=for-the-badge&labelColor=1d2021" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/tristan-collier-263b67263/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-tristan--collier-83a598?style=for-the-badge&labelColor=1d2021" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tristancollier777@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/email-tristancollier777%40gmail.com-d3869b?style=for-the-badge&labelColor=1d2021" alt="Email" />
-  </a>
-  <a href="https://www.chess.com/member/tristancollier" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/chess-tristancollier-b8bb26?style=for-the-badge&labelColor=1d2021" alt="Chess.com" />
-  </a>
-</p>
+[![langs](https://skillicons.dev/icons?i=js,ts,python,lua,astro,react,cs,html,css&theme=dark)](https://skillicons.dev)
+
+```text
+tools →
+```
+
+[![tools](https://skillicons.dev/icons?i=nodejs,linux,neovim,docker,azure,git,vscode,bash&theme=dark)](https://skillicons.dev)
 
 ```bash
-colliertr@github:~$ # pins above are the project rack — poke around
-colliertr@github:~$
+colliertr@arcade:~$ ./connect.sh
+```
+
+[![web](https://img.shields.io/badge/web-tristancollier.com-fabd2f?style=for-the-badge&labelColor=1d2021)](https://tristancollier.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-tristan--collier-fe8019?style=for-the-badge&labelColor=1d2021)](https://www.linkedin.com/in/tristan-collier-263b67263/)
+
+[![email](https://img.shields.io/badge/email-tristancollier777%40gmail.com-8ec07c?style=for-the-badge&labelColor=1d2021)](mailto:tristancollier777@gmail.com)
+
+[![chess](https://img.shields.io/badge/chess-tristancollier-d3869b?style=for-the-badge&labelColor=1d2021)](https://www.chess.com/member/tristancollier)
+
+```bash
+colliertr@arcade:~$ # pins above are the pellet trail — chomp around
+colliertr@arcade:~$
 ```
